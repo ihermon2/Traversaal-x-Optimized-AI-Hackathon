@@ -1,0 +1,11 @@
+CustomerID,Name,Email,Age,City
+201,Customer_1,customer_1@example.com,63,Houston
+202,Customer_2,customer_2@example.com,22,Los Angeles
+203,Customer_3,customer_3@example.com,56,Los Angeles
+204,Customer_4,customer_4@example.com,26,Los Angeles
+205,Customer_5,customer_5@example.com,40,New York
+206,Customer_6,customer_6@example.com,28,Los Angeles
+207,Customer_7,customer_7@example.com,58,New York
+208,Customer_8,customer_8@example.com,37,Los Angeles
+209,Customer_9,customer_9@example.com,23,Houston
+210,Customer_10,customer_10@example.com,44,Houston
